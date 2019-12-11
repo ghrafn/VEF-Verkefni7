@@ -1,0 +1,2149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="944.84277"
+   height="1704.7419"
+   id="svg2"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="Quake_-_family_tree.svg">
+  <metadata
+     id="metadata366">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="693"
+     id="namedview364"
+     showgrid="false"
+     units="cm"
+     inkscape:zoom="0.50000001"
+     inkscape:cx="296.32426"
+     inkscape:cy="1095.8304"
+     inkscape:window-x="1050"
+     inkscape:window-y="937"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     fit-margin-top="0.5"
+     fit-margin-left="0.5"
+     fit-margin-right="0.5"
+     fit-margin-bottom="0.5" />
+  <defs
+     id="defs3">
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM"
+       style="overflow:visible">
+      <path
+         id="path4311"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="scale(0.4,0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL"
+       style="overflow:visible">
+      <path
+         id="path4308"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="scale(0.8,0.8)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="DiamondMstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DiamondMstart"
+       style="overflow:visible">
+      <path
+         id="path4257"
+         d="M 0,-7.0710768 -7.0710894,0 0,7.0710589 7.0710462,0 0,-7.0710768 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.4,0,0,0.4,2.6,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Send"
+       style="overflow:visible">
+      <path
+         id="path4181"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path4166"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 323.05627 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 323.05627 : 1"
+       inkscape:persp3d-origin="372.04724 : 215.37085 : 1"
+       id="perspective368" />
+    <inkscape:perspective
+       id="perspective3223"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3248"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3187"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-0"
+       style="overflow:visible">
+      <path
+         id="path4311-7"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="scale(0.4,0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-9"
+       style="overflow:visible">
+      <path
+         id="path4311-4"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="scale(0.4,0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-7"
+       style="overflow:visible">
+      <path
+         id="path4311-9"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="scale(0.4,0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-6"
+       style="overflow:visible">
+      <path
+         id="path4311-77"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="scale(0.4,0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-3"
+       style="overflow:visible">
+      <path
+         id="path4311-0"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="scale(0.4,0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-30"
+       style="overflow:visible">
+      <path
+         id="path4311-6"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="scale(0.4,0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM-8"
+       style="overflow:visible">
+      <path
+         id="path4311-2"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="scale(0.4,0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <text
+     xml:space="preserve"
+     id="text1307"
+     style="font-size:27.19968796px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     transform="scale(1.1274105,0.88698837)"
+     y="40.161076"
+     x="348.31451"><tspan
+       id="tspan1309"
+       y="40.161076"
+       x="348.31451">QUAKE</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path1323"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     d="M 333.88072,103.17115 128.7914,401.21333"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     id="text1325"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="665.99969"
+     x="126.49693"><tspan
+       id="tspan1327"
+       y="665.99969"
+       x="126.49693">TomazQuake</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path1329"
+     style="fill:none;stroke:#000000;stroke-width:0.859914px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 330.37287,103.09591 92.375108,399.37356"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     id="text1331"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="404.12082"
+     x="31.00473"><tspan
+       id="tspan1333"
+       y="404.12082"
+       x="31.00473">MhQuake</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path1335"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     d="m 506.80098,376.9199 337.18376,69.52997" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path1343"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     d="m 830.30142,509.27594 34.33369,-47.56419" />
+  <text
+     xml:space="preserve"
+     id="text1363"
+     style="font-size:14.85536385px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     transform="scale(0.99945969,1.0005406)"
+     y="1503.4202"
+     x="417.08319"><tspan
+       id="tspan1365"
+       y="1503.4202"
+       x="417.08319">Doom 3</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path1367"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 387.38624,108.03993 349.75557,439.80425"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     id="text1369"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="456.06366"
+     x="327.58978"><tspan
+       id="tspan1371"
+       y="456.06366"
+       x="327.58978">DarkPlaces</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path1373"
+     style="fill:none;stroke:#000000;stroke-width:0.99999899px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 159.16797,751.50716 0,-74.10787"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     id="text1375"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="770.82007"
+     x="135.15048"><tspan
+       id="tspan1377"
+       y="770.82007"
+       x="135.15048">Telejano</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path1379"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     d="M 495.91874,390.33751 652.36058,498.1475" />
+  <text
+     xml:space="preserve"
+     id="text1381"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="511.54785"
+     x="639.63873"><tspan
+       id="tspan1383"
+       y="511.54785"
+       x="639.63873">ZQuake</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path2149"
+     style="fill:none;stroke:#000000;stroke-width:0.99999899px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 352.02134,109.17625 158.43939,649.45849"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     id="text2151"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="419.84784"
+     x="89.316727"><tspan
+       id="tspan2153"
+       y="419.84784"
+       x="89.316727">CleanQuake</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text2171"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="681.32086"
+     x="294.93073"><tspan
+       id="tspan2173"
+       y="681.32086"
+       x="294.93073">DemonQuake</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path2179"
+     style="fill:none;stroke:#000000;stroke-width:0.74779499px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 676.36326,635.00384 22.18939,17.32788" />
+  <text
+     xml:space="preserve"
+     id="text2181"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="667.93274"
+     x="682.13336"><tspan
+       id="tspan2183"
+       y="667.93274"
+       x="682.13336">AMFQuake</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path2185"
+     style="fill:none;stroke:#000000;stroke-width:1.10309994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 643.99066,636.16356 -24.40667,32.1539" />
+  <text
+     xml:space="preserve"
+     id="text2187"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="682.14948"
+     x="587.40247"><tspan
+       id="tspan2189"
+       y="682.14948"
+       x="587.40247">ezQuake</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text2203"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="500.80481"
+     x="568.84375"><tspan
+       id="tspan2205"
+       y="500.80481"
+       x="568.84375">QW262</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text2226"
+     style="font-size:12.68027782px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     transform="scale(0.94634965,1.0566919)"
+     y="295.18002"
+     x="25.606064"><tspan
+       id="tspan2228"
+       y="295.18002"
+       x="25.606064">Tenebrae</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text2240"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="484.80945"
+     x="269.85471"><tspan
+       id="tspan2242"
+       y="484.80945"
+       x="269.85471">QMB</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text3004"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="631.50787"
+     x="247.28271"><tspan
+       id="tspan3006"
+       y="631.50787"
+       x="247.28271">JoeQuake</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text3010"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="676.98987"
+     x="234.28873"><tspan
+       id="tspan3012"
+       y="676.98987"
+       x="234.28873">Tremor</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text3026"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="219.18384"
+     x="56.768333"><tspan
+       id="tspan3028"
+       y="219.18384"
+       x="56.768333">GQ</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text1491"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="619.92151"
+     x="469.45862"><tspan
+       id="tspan1493"
+       y="619.92151"
+       x="469.45862">MoreQuakeWorld</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text1393"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="137.4435"
+     x="539.17914"><tspan
+       id="tspan1395"
+       y="137.4435"
+       x="539.17914">ToChris</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path2166"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 492.00494,995.47401 152.04669,77.69789" />
+  <text
+     xml:space="preserve"
+     id="text2168"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="1082.3591"
+     x="648.81976"><tspan
+       id="tspan2170"
+       y="1082.3591"
+       x="648.81976">BeefQuake</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path2172"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 680.5068,1090.9458 0,23.1102" />
+  <text
+     xml:space="preserve"
+     id="text2174"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="1130.5139"
+     x="654.18213"><tspan
+       id="tspan2176"
+       y="1130.5139"
+       x="654.18213">PaintBall2</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text2178"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="612.52838"
+     x="195.41058"><tspan
+       id="tspan2180"
+       y="612.52838"
+       x="195.41058">Alteria</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path2184"
+     style="fill:none;stroke:#000000;stroke-width:0.94580698px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 489.42128,999.81285 623.68325,1103.5655" />
+  <text
+     xml:space="preserve"
+     id="text2186"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="1110.3767"
+     x="583.27081"><tspan
+       id="tspan2188"
+       y="1110.3767"
+       x="583.27081">CRX</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text2190"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="632.44678"
+     x="631.68658"><tspan
+       id="tspan2192"
+       y="632.44678"
+       x="631.68658">FuhQuake</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text2198"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="485.82834"
+     x="31.383385"><tspan
+       id="tspan2200"
+       y="485.82834"
+       x="31.383385">Q2K4</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text2202"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="1117.4387"
+     x="613.72003"><tspan
+       id="tspan2204"
+       y="1117.4387"
+       x="613.72003"> EGL</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path2206"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 492.91579,991.78085 225.15806,54.77475" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path2210"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 503.85324,384.85543 c 13.35195,3.56411 188.22286,82.66376 193.67622,82.66376"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     id="text2212"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="481.85681"
+     x="692.02875"><tspan
+       id="tspan2214"
+       y="481.85681"
+       x="692.02875">QuakeForge</tspan></text>
+  <rect
+     id="rect2216"
+     style="fill:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:1, 6;stroke-dashoffset:0"
+     y="897.72565"
+     x="-7.5803852"
+     height="85.54821"
+     width="128.86375" />
+  <text
+     xml:space="preserve"
+     id="text2978"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="240.83983"
+     x="35.883232"><tspan
+       id="tspan2980"
+       y="240.83983"
+       x="35.883232">NetChild</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text2984"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="115.37183"
+     x="17.676737"><tspan
+       id="tspan2986"
+       y="115.37183"
+       x="17.676737"> Fitzquake</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path2988"
+     style="fill:none;stroke:#000000;stroke-width:0.71250701px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 400.07858,105.85603 0.92006,473.1391"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     id="text2990"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="601.93781"
+     x="378.45172"><tspan
+       id="tspan2992"
+       y="601.93781"
+       x="378.45172">Hexen II</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path2996"
+     style="fill:none;stroke:#000000;stroke-width:0.99999702px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 315.75008,70.899956 75.395473,186.37295"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     id="text2998"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="150.16684"
+     x="34.705238"><tspan
+       id="tspan3000"
+       y="150.16684"
+       x="34.705238">NPR</tspan><tspan
+       id="tspan1783"
+       y="165.16684"
+       x="34.705238">Quake</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text3002"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="571.94366"
+     x="456.14874"><tspan
+       id="tspan3004"
+       y="571.94366"
+       x="456.14874">Twilight</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path3009"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 475.66398,554.30295 458.98163,395.9322" />
+  <text
+     xml:space="preserve"
+     id="text3013"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="574.61383"
+     x="560.80872"><tspan
+       id="tspan3015"
+       y="574.61383"
+       x="560.80872">KrimZoN</tspan><tspan
+       id="tspan1713"
+       y="589.61383"
+       x="560.80872">QuakeWorld</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path3017"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 520.85092,600.38562 468.52355,394.74602" />
+  <text
+     xml:space="preserve"
+     id="text5309"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="381.65784"
+     x="23.668251"><tspan
+       id="tspan5311"
+       y="381.65784"
+       x="23.668251">OmiQuake</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text5315"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="526.99884"
+     x="546.03271"><tspan
+       id="tspan5317"
+       y="526.99884"
+       x="546.03271">FTE</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text5321"
+     style="font-size:14.38654709px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     transform="scale(0.99629488,1.0037189)"
+     y="1567.2301"
+     x="417.91064"><tspan
+       id="tspan5323"
+       y="1567.2301"
+       x="417.91064">Quake 4</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path5325"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 397.46688,987.53381 199.5127,1048.4199" />
+  <text
+     xml:space="preserve"
+     id="text5327"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="1054.5226"
+     x="136.45723"><tspan
+       id="tspan5329"
+       y="1054.5226"
+       x="136.45723">Heretic 2</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text5339"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="654.54999"
+     x="404.7977"><tspan
+       id="tspan5341"
+       y="654.54999"
+       x="404.7977">Hexen</tspan><tspan
+       id="tspan1711"
+       y="669.54999"
+       x="404.7977">World</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path2213"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM-8)"
+     d="m 523.49372,106.88659 -17.07656,17.74278" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path2217"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 319.07685,74.337855 81.884539,212.39796"
+     sodipodi:nodetypes="cc" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path2219"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 319.45959,77.009805 94.462911,233.26516"
+     sodipodi:nodetypes="cc" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path2221"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 117.16997,423.54196 63.012275,469.62953" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path2223"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 286.22417,469.26579 362.98511,109.84612"
+     sodipodi:nodetypes="cc" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path2225"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 274.5643,638.02733 -14.49555,24.86281" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path2235"
+     style="fill:none;stroke:#000000;stroke-width:0.99999899px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 478.18785,394.59044 552.5616,510.17446"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     id="text2243"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="100.00581"
+     x="496.73734"><tspan
+       id="tspan2245"
+       y="100.00581"
+       x="496.73734">WinQuake</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text2247"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="500.64294"
+     x="59.797104"><tspan
+       id="tspan2249"
+       y="500.64294"
+       x="59.797104">Vengeance</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path2251"
+     style="fill:none;stroke:#000000;stroke-width:0.99999899px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 123.74971,425.72525 97.160107,483.16487" />
+  <text
+     xml:space="preserve"
+     id="text2253"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="1054.2484"
+     x="450.96368"><tspan
+       id="tspan2255"
+       y="1054.2484"
+       x="450.96368"> LiteGL</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path2257"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 464.78998,1008.021 6.38132,30.992" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path2259"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 477.95752,1003.961 62.70828,81.5491" />
+  <text
+     xml:space="preserve"
+     id="text2261"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="1074.319"
+     x="482.10345"><tspan
+       id="tspan2263"
+       y="1074.319"
+       x="482.10345">Q2Max</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text2265"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="1098.6445"
+     x="506.42493"><tspan
+       id="tspan2267"
+       y="1098.6445"
+       x="506.42493"> Q2Evolved</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path2269"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 503.27856,1060.0072 -29.48555,-52.6609" />
+  <text
+     xml:space="preserve"
+     id="text2271"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="1053.6887"
+     x="725.48315"><tspan
+       id="tspan2273"
+       y="1053.6887"
+       x="725.48315">QFusion</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path2275"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 592.03889,1094.9496 485.62625,1002.7322" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path2283"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 347.73904,463.17871 0,16.92514"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     id="text2285"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="499.30167"
+     x="322.9028"><tspan
+       id="tspan2287"
+       y="499.30167"
+       x="322.9028">(Nehara,</tspan><tspan
+       id="tspan2289"
+       y="514.3017"
+       x="322.9028">Tranfusion,</tspan><tspan
+       id="tspan2291"
+       y="529.3017"
+       x="322.9028">Nexuiz,..)</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text2293"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="1136.853"
+     x="363.24924"><tspan
+       id="tspan2295"
+       y="1136.853"
+       x="363.24924">anachronox</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path2297"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 434.49725,1016.4248 -30.55601,110.6121" />
+  <text
+     xml:space="preserve"
+     id="text2299"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="1100.3552"
+     x="120.52122"><tspan
+       id="tspan2301"
+       y="1100.3552"
+       x="120.52122">Daikatana</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path2303"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 173.52281,1086.8009 399.45546,993.28612" />
+  <text
+     xml:space="preserve"
+     id="text2305"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="1164.0833"
+     x="598.7135"><tspan
+       id="tspan2307"
+       y="1164.0833"
+       x="598.7135">BinaryEGL </tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path2309"
+     style="fill:none;stroke:#000000;stroke-width:0.99999899px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 627.24335,1123.0669 0,27.7917" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path2311"
+     style="fill:none;stroke:#000000;stroke-width:0.99999899px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 125.61717,773.36691 -37.065608,8.28515"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     id="text2313"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="776.30103"
+     x="6.2680683"><tspan
+       id="tspan2315"
+       y="776.30103"
+       x="6.2680683">(Minirun,</tspan><tspan
+       id="tspan2317"
+       y="791.30103"
+       x="6.2680683">SinglePlayer,</tspan><tspan
+       id="tspan2319"
+       y="806.30103"
+       x="6.2680683">Ozymandias</tspan><tspan
+       id="tspan1619"
+       y="821.30103"
+       x="6.2680683">..)</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path1665"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 679.97635,519.50621 26.27895,37.99054" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path1669"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 321.78528,89.239335 85.339667,307.00206"
+     sodipodi:nodetypes="cc" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path1671"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 326.25366,101.2478 94.570559,375.92144"
+     sodipodi:nodetypes="cc" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path1681"
+     style="fill:none;stroke:#000000;stroke-width:0.99999899px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 379.02226,701.18526 399.38967,612.6053"
+     sodipodi:nodetypes="cc" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path1683"
+     style="fill:none;stroke:#000000;stroke-width:0.99999899px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 418.56601,638.38844 407.90008,607.45948"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     id="text1685"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="815.8103"
+     x="340.81357"><tspan
+       id="tspan1687"
+       y="815.8103"
+       x="340.81357">NewHexen</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path1689"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 393.28107,730.4426 -5.5596,70.07125"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     id="text1691"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="138.74199"
+     x="494.08334"><tspan
+       id="tspan1693"
+       y="138.74199"
+       x="494.08334">QIP</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path1695"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM-8)"
+     d="m 530.84974,105.90681 22.58637,17.90904" />
+  <text
+     xml:space="preserve"
+     id="text1697"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="1328.9277"
+     x="720.99872"><tspan
+       id="tspan1699"
+       y="1328.9277"
+       x="720.99872">RTC Wolfenstein</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text1703"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="1480.636"
+     x="832.49146"><tspan
+       id="tspan1705"
+       y="1480.636"
+       x="832.49146">Enemy Territory</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text1729"
+     style="font-size:15.30673218px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     transform="scale(0.94499398,1.0582078)"
+     y="426.48669"
+     x="900.32147"><tspan
+       id="tspan1731"
+       y="426.48669"
+       x="900.32147">GoldSrc</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path1926"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 213.30648,599.51949 357.03326,108.29296" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path1928"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 308.99515,66.288961 86.798718,114.14739"
+     sodipodi:nodetypes="cc" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path1930"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM-8)"
+     d="m 403.10804,104.2151 23.96973,257.12021"
+     sodipodi:nodetypes="cc" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path1932"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 573.79978,480.88091 483.41844,391.79605"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     id="text1317"
+     style="font-size:14.51963329px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     transform="scale(0.92743085,1.0782475)"
+     y="356.7034"
+     x="437.2627"><tspan
+       id="tspan1319"
+       y="356.7034"
+       x="437.2627">QuakeWorld</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path1936"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 379.08013,108.05126 274.64671,616.5188"
+     sodipodi:nodetypes="cc" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path1938"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 283.3363,636.7407 32.93372,29.60227" />
+  <text
+     xml:space="preserve"
+     id="text1940"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="1112.4749"
+     x="295.0668"><tspan
+       id="tspan1942"
+       y="1112.4749"
+       x="295.0668">action quake2</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text1960"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="1172.2728"
+     x="304.715"><tspan
+       id="tspan1962"
+       y="1172.2728"
+       x="304.715">(aq2:ete,</tspan><tspan
+       id="tspan1964"
+       y="1187.2728"
+       x="304.715">aq2:ltk,</tspan><tspan
+       id="tspan1966"
+       y="1202.2728"
+       x="304.715">aq2:ltktbm,..)</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path1968"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 419.13937,1010.9801 -83.8786,88.8309" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path1970"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 645.0505,520.71056 -33.08022,41.24333" />
+  <text
+     xml:space="preserve"
+     id="text2734"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="701.12366"
+     x="625.61914"><tspan
+       id="tspan2736"
+       y="701.12366"
+       x="625.61914">electroquake</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path2738"
+     style="fill:none;stroke:#000000;stroke-width:0.99999899px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 659.351,638.98675 c 0.12867,4.89552 0.31858,44.5964 0.31858,44.5964" />
+  <text
+     xml:space="preserve"
+     id="text2740"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="539.90582"
+     x="712.77777"><tspan
+       id="tspan2742"
+       y="539.90582"
+       x="712.77777">hibred</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text2746"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="570.45081"
+     x="701.36377"><tspan
+       id="tspan2748"
+       y="570.45081"
+       x="701.36377">qwex</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text2750"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="573.25885"
+     x="73.305222"><tspan
+       id="tspan2752"
+       y="573.25885"
+       x="73.305222">HeffoQuake</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path2754"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 340.30174,106.25532 131.03279,557.23244"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     id="text2756"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="600.87213"
+     x="100.47587"><tspan
+       id="tspan2758"
+       y="600.87213"
+       x="100.47587">Quake2000</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path2760"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 346.93719,109.35076 160.72406,582.59764"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     id="text2762"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="261.91727"
+     x="55.094734"><tspan
+       id="tspan2764"
+       y="261.91727"
+       x="55.094734">QER</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path2766"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 93.035558,257.21812 321.21495,80.993535"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     id="text2768"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="193.67792"
+     x="37.516735"><tspan
+       id="tspan2770"
+       y="193.67792"
+       x="37.516735">Natas</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path2772"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+     d="M 422.79528,44.348002 391.6599,75.802194" />
+  <text
+     xml:space="preserve"
+     id="text2774"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="536.87439"
+     x="67.791786"><tspan
+       id="tspan2776"
+       y="536.87439"
+       x="67.791786">ProQuake</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path2778"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 127.59806,520.81222 336.13559,104.39039"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     id="text2780"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="288.23984"
+     x="16.538801"><tspan
+       id="tspan2782"
+       y="288.23984"
+       x="16.538801">Fisheye Quake</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path2784"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 105.84597,279.06435 321.16347,85.064355"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     id="text1522"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="337.52084"
+     x="17.05599"><tspan
+       id="tspan1524"
+       y="337.52084"
+       x="17.05599">Fiendhunter</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path1526"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 94.051809,332.80323 322.99099,93.337275"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     id="text1528"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="359.75385"
+     x="20.74888"><tspan
+       id="tspan1530"
+       y="359.75385"
+       x="20.74888">MrGLQuake</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path1532"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 325.11887,96.421205 94.847593,355.29438"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     id="text1534"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="447.25607"
+     x="9.1882763"><tspan
+       id="tspan1536"
+       y="447.25607"
+       x="9.1882763">Miniracer</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path1538"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 94.540742,425.5721 69.910488,438.44277"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     id="text1771"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="788.40649"
+     x="327.22961"><tspan
+       id="tspan1773"
+       y="788.40649"
+       x="327.22961">jsHexen2</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path1775"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 368.72869,777.21349 11.78182,-49.99297"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     id="text1777"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="765.69019"
+     x="254.27209"><tspan
+       id="tspan1779"
+       y="765.69019"
+       x="254.27209">Pa3PyX's Hexen 2</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path1781"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 307.26784,752.70827 41.85884,-27.65472"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     id="text1785"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="851.67358"
+     x="342.40247"><tspan
+       id="tspan1787"
+       y="851.67358"
+       x="342.40247">Anvil of Thyrion</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path1789"
+     style="fill:none;stroke:#000000;stroke-width:0.99999899px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 404.75213,728.99721 16.61684,104.43176"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     id="text1791"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="893.36902"
+     x="375.6026"><tspan
+       id="tspan1793"
+       y="893.36902"
+       x="375.6026">Hammer</tspan><tspan
+       id="tspan1877"
+       y="908.36902"
+       x="375.6026"> of </tspan><tspan
+       id="tspan1879"
+       y="923.36902"
+       x="375.6026">Thyrion</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text1797"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="1167.9343"
+     x="197.36871"><tspan
+       id="tspan1799"
+       y="1167.9343"
+       x="197.36871">Soldier</tspan><tspan
+       id="tspan1813"
+       y="1182.9343"
+       x="197.36871"> of </tspan><tspan
+       id="tspan1815"
+       y="1197.9343"
+       x="197.36871">Fortune</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path1801"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 407.7826,1005.0164 220.05539,1150.8271" />
+  <text
+     xml:space="preserve"
+     id="text1803"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="1344.6847"
+     x="82.125778"><tspan
+       id="tspan1805"
+       y="1344.6847"
+       x="82.125778">Soldier</tspan><tspan
+       id="tspan1807"
+       y="1359.6846"
+       x="82.125778"> of </tspan><tspan
+       id="tspan1809"
+       y="1374.6846"
+       x="82.125778">Fortune II</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path1811"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 142.04497,1351.6044 265.98748,-85.0299" />
+  <text
+     xml:space="preserve"
+     id="text1817"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="1493.2247"
+     x="264.728"><tspan
+       id="tspan1819"
+       y="1493.2247"
+       x="264.728">STV: Elite Force</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path1821"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 83.928713,1470.1139 31.505337,-25.4905" />
+  <text
+     xml:space="preserve"
+     id="text1823"
+     style="font-size:12px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="1486.925"
+     x="83.433075"><tspan
+       id="tspan1825"
+       y="1486.925"
+       x="83.433075">ST: Elite</tspan><tspan
+       id="tspan2517"
+       y="1501.9252"
+       x="83.433075">Force II</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path1827"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 311.68016,1514.2452 c 0.0387,-0.5605 0,-18.0971 0,-18.0971" />
+  <text
+     xml:space="preserve"
+     id="text1829"
+     style="font-size:12px;font-style:normal;font-weight:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="1577.6342"
+     x="314.11429"><tspan
+       style="writing-mode:lr-tb"
+       id="tspan1831"
+       y="1577.6342"
+       x="314.11429">SWJK2: Jedi Outcast </tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path1833"
+     style="fill:none;stroke:#000000;stroke-width:0.99999899px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 431.62922,1285.9799 -120.9459,185.9838" />
+  <text
+     xml:space="preserve"
+     id="text1835"
+     style="font-size:12px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="1617.0973"
+     x="311.1777"><tspan
+       id="tspan1837"
+       y="1617.0973"
+       x="311.1777">SWJK3: Jedi Academy</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text1841"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="1135.8232"
+     x="158.39799"><tspan
+       id="tspan1843"
+       y="1135.8232"
+       x="158.39799">SiN</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path1845"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 175.56532,1123.0571 400.96886,1000.6515" />
+  <text
+     xml:space="preserve"
+     id="text1847"
+     style="font-size:12px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="1423.0739"
+     x="130.17912"><tspan
+       id="tspan1639"
+       y="1423.0739"
+       x="130.17912">Heavy Metal</tspan><tspan
+       id="tspan1579"
+       y="1438.0739"
+       x="130.17912">F.A.K.K. 2</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text1311"
+     style="font-size:13.18469238px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     transform="scale(0.9101495,1.0987206)"
+     y="86.004646"
+     x="383.97128"><tspan
+       id="tspan1313"
+       y="86.004646"
+       x="383.97128">GLQUAKE</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text1351"
+     style="font-size:15.53520679px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     transform="scale(1.0760595,0.92931664)"
+     y="1074.3367"
+     x="385.15039"><tspan
+       id="tspan1353"
+       y="1074.3367"
+       x="385.15039">Quake2</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text1677"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="721.11041"
+     x="336.90671"><tspan
+       id="tspan1679"
+       y="721.11041"
+       x="336.90671">Hexen2:Pop</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text1566"
+     style="font-size:12px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="1412.8811"
+     x="267.78311"><tspan
+       id="tspan1568"
+       y="1412.8811"
+       x="267.78311">American</tspan><tspan
+       id="tspan1572"
+       y="1427.8811"
+       x="267.78311">McGee's Alice</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text1357"
+     style="font-size:14.24353218px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     transform="scale(0.98658472,1.0135977)"
+     y="1248.1185"
+     x="421.46841"><tspan
+       id="tspan1359"
+       y="1248.1185"
+       x="421.46841">Quake3</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path1577"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 291.62236,1396.2514 419.39589,1281.2678" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path1881"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 311.00366,69.736834 69.760744,151.1656"
+     sodipodi:nodetypes="cc" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path1883"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-mid:none;marker-end:url(#TriangleOutM)"
+     d="m 470.62324,44.348002 46.01411,38.033827" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path1887"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 691.05845,515.78432 18.23972,14.63927" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path1891"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 400.36365,877.53467 -0.0592,-18.61565"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     id="text1585"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="801.03668"
+     x="230.03247"><tspan
+       id="tspan1588"
+       y="801.03668"
+       x="230.03247">Eternal </tspan><tspan
+       id="tspan1617"
+       y="816.03662"
+       x="230.03247">War HQ</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path1590"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 159.66797,777.8691 0,21.56543"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     id="text1592"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="812.92804"
+     x="120.40547"><tspan
+       id="tspan1594"
+       y="812.92804"
+       x="120.40547">Slay Slaugther</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path1598"
+     style="fill:none;stroke:#000000;stroke-width:0.99999899px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 159.66797,819.03077 0,22.05468"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     id="text1600"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="855.87097"
+     x="123.66519"><tspan
+       id="tspan1602"
+       y="855.87097"
+       x="123.66519">Silver Wings</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path1911"
+     style="fill:none;stroke:#000000;stroke-width:0.99999899px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 149.83256,679.93377 -19.508,25.31388"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     id="text1603"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="694.74042"
+     x="6.4948215"><tspan
+       id="tspan1605"
+       y="694.74042"
+       x="6.4948215">CheapHack</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path1607"
+     style="fill:none;stroke:#000000;stroke-width:0.99999899px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 79.007442,689.42202 136.55664,678.38777"
+     sodipodi:nodetypes="cc" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path1609"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 192.50314,774.75004 29.92363,22.36426"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     id="text1611"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="719.99194"
+     x="97.918915"><tspan
+       id="tspan1613"
+       y="719.99194"
+       x="97.918915">Eternal </tspan><tspan
+       id="tspan1615"
+       y="734.99194"
+       x="97.918915">War MP</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     id="path1621"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 183.4703,676.06854 23.61845,20.32649"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     id="text1629"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="709.96521"
+     x="200.8956"><tspan
+       id="tspan1631"
+       y="709.96521"
+       x="200.8956">Betwix</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text1633"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="1312.8232"
+     x="86.627991"><tspan
+       id="tspan1635"
+       y="1312.8232"
+       x="86.627991">007: Nightfire</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path1637"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 180.69609,1309.0233 221.76945,-53.1276" />
+  <text
+     xml:space="preserve"
+     id="text1641"
+     style="font-size:12px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="1525.6481"
+     x="311.70938"><tspan
+       id="tspan1643"
+       y="1525.6481"
+       x="311.70938">ST: EF</tspan><tspan
+       id="tspan2519"
+       y="1540.6481"
+       x="311.70938">Expansion</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text1647"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="1354.926"
+     x="469.9213"><tspan
+       id="tspan2471"
+       y="1354.926"
+       x="469.9213">XreaL</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text1651"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="1157.1199"
+     x="723.47168"><tspan
+       id="tspan1653"
+       y="1157.1199"
+       x="723.47168">Mysticman</tspan><tspan
+       id="tspan1661"
+       y="1172.1199"
+       x="723.47168">portfolio</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path1659"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 412.30511,1276.4828 -243.172,134.9139" />
+  <text
+     xml:space="preserve"
+     id="text2475"
+     style="font-size:12px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="1486.9425"
+     x="173.7765"><tspan
+       id="tspan2477"
+       y="1486.9425"
+       x="173.7765">Medal of Honor:</tspan><tspan
+       id="tspan2479"
+       y="1501.9425"
+       x="173.7765">Allied Assault</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path2481"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 165.37686,1472.73 -34,-27.4417" />
+  <text
+     xml:space="preserve"
+     id="text2483"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="1550.5139"
+     x="127.10674"><tspan
+       id="tspan2485"
+       y="1550.5139"
+       x="127.10674">Medal of Honor:</tspan><tspan
+       id="tspan2487"
+       y="1565.5139"
+       x="127.10674">Pacific Assault</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path2489"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 168.27457,1536.6386 0,-27.4733" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path2491"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 483.55652,1341.3108 -25.07161,-53.4156" />
+  <text
+     xml:space="preserve"
+     id="text2493"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="1356.1942"
+     x="522.23633"><tspan
+       id="tspan2495"
+       y="1356.1942"
+       x="522.23633">ioquake3</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path2497"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 618.26187,1388.4015 -37.80919,-25.671" />
+  <text
+     xml:space="preserve"
+     id="text2499"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="1370.5684"
+     x="635.62787"><tspan
+       id="tspan2501"
+       y="1370.5684"
+       x="635.62787">Urban Terror</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text2503"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="1395.4982"
+     x="621.06519"><tspan
+       id="tspan2505"
+       y="1395.4982"
+       x="621.06519">Tremulous</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path2507"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 627.8273,1367.7592 -41.41309,-14.9386" />
+  <text
+     xml:space="preserve"
+     id="text2509"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="1417.7418"
+     x="549.56335"><tspan
+       id="tspan2511"
+       y="1417.7418"
+       x="549.56335">World of Padman</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path2513"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 594.63887,1401.1175 559.3601,1365.4482" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path2532"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 710.63387,1322.2466 485.18489,1265.1959" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path2534"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 812.51437,1433.4498 -35.07364,-89.6524" />
+  <text
+     xml:space="preserve"
+     id="text2536"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="1424.3915"
+     x="726.30457"><tspan
+       id="tspan2538"
+       y="1424.3915"
+       x="726.30457">Call of Duty</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text2540"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="1503.5413"
+     x="750.71271"><tspan
+       id="tspan2542"
+       y="1503.5413"
+       x="750.71271">CoD 2</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text2544"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="1545.3342"
+     x="754.67834"><tspan
+       id="tspan2546"
+       y="1545.3342"
+       x="754.67834">IW 3</tspan></text>
+  <path
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc"
+     id="path2548"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 876.44967,1462.762 784.5266,1344.8945" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path2550"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 767.01351,1490.3484 0,-58.1209" />
+  <path
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc"
+     id="path2552"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 766.86097,1533.4307 0,-25.6099" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path2554"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 509.61914,1435.1053 -19.62918,-72.8498" />
+  <path
+     inkscape:connector-curvature="0"
+     id="path2556"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 521.03127,1433.8416 23.87807,-67.7802"
+     sodipodi:nodetypes="cc" />
+  <text
+     xml:space="preserve"
+     id="text2558"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="1451.1929"
+     x="481.14417"><tspan
+       id="tspan2560"
+       y="1451.1929"
+       x="481.14417">Evolution Q3</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path2562"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="M 540.83026,1341.6394 470.27802,1281.474" />
+  <text
+     xml:space="preserve"
+     id="text2564"
+     style="font-size:12px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="1624.6079"
+     x="445.69287"><tspan
+       id="tspan2566"
+       y="1624.6079"
+       x="445.69287">Enemy Territory</tspan><tspan
+       id="tspan2568"
+       y="1639.6079"
+       x="445.69287">Quake Wars</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text2572"
+     style="font-size:14.38654709px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     transform="scale(0.99629488,1.0037189)"
+     y="1677.7822"
+     x="447.4389"><tspan
+       id="tspan2574"
+       y="1677.7822"
+       x="447.4389">Rage</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path3209"
+     d="m 774.43779,1552.5134 10.1818,10.4193"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cc"
+     id="path3213"
+     d="m 761.18855,1553.1544 -21.50421,29.817"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <text
+     transform="scale(1.0616002,0.9419742)"
+     xml:space="preserve"
+     id="text2544-9"
+     style="font-size:11.30368614px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="1691.2695"
+     x="661.68817"><tspan
+       id="tspan2546-4"
+       y="1691.2695"
+       x="661.68817">IW 4, MW3</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text2540-4-1"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="1572.9056"
+     x="773.83093"><tspan
+       id="tspan2542-0-7"
+       y="1572.9056"
+       x="773.83093">CoD BO</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text1697-6"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="1454.9551"
+     x="781.43353"><tspan
+       style="font-size:12px"
+       id="tspan1699-4"
+       y="1454.9551"
+       x="781.43353">Treyarch NGL</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     id="path2534-0"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 766.86097,1405.9893 0,-63.8524"
+     inkscape:connector-curvature="0" />
+  <text
+     xml:space="preserve"
+     id="text2212-1"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="523.20264"
+     x="782.41376"><tspan
+       style="font-size:10px"
+       id="tspan2214-7"
+       y="523.20264"
+       x="782.41376">Source - Vampire</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path3369"
+     d="m 881.16797,459.08874 0,85.57879"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <text
+     xml:space="preserve"
+     id="text1725-7"
+     style="font-size:14.40642452px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     transform="scale(0.96903038,1.0319594)"
+     y="541.64246"
+     x="874.12372"><tspan
+       style="font-size:10.00000572px"
+       id="tspan1727-1"
+       y="541.64246"
+       x="874.12372">Source - HL2</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text1725-7-5-5"
+     style="font-size:14.40642452px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     transform="scale(0.96903038,1.0319594)"
+     y="587.6958"
+     x="816.05957"><tspan
+       id="tspan3443"
+       style="font-size:10.00000572px">Source - Sin Eps.</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path3445"
+     d="m 847.09633,591.5118 20.04341,-24.74169"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <text
+     xml:space="preserve"
+     id="text1725-7-5-4"
+     style="font-size:14.40642452px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     transform="scale(0.96903038,1.0319594)"
+     y="614.05121"
+     x="860.75616"><tspan
+       style="font-size:10.00000572px"
+       id="tspan1727-1-5-4"
+       y="614.05121"
+       x="860.75616">Source - Or. Box</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path3471"
+     d="m 865.63755,640.52326 -34.34992,38.41846"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <text
+     xml:space="preserve"
+     id="text1725-7-5-4-6"
+     style="font-size:14.40642452px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     transform="scale(0.96903038,1.0319594)"
+     y="668.9837"
+     x="821.89771"><tspan
+       style="font-size:10.00000572px"
+       id="tspan1727-1-5-4-4"
+       y="668.9837"
+       x="821.89771">Source - TF2</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path3405"
+     d="m 446.10302,44.348002 0,317.848758"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM)" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path3405-3"
+     d="m 446.10302,399.88727 0,577.0739"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM)" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path3405-3-8"
+     d="m 446.10302,1012.8728 0,233.6825"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM)" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path3405-3-8-1"
+     d="m 446.10302,1282.1627 0,204.1592"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM)" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path3405-3-8-1-6"
+     d="m 446.10302,1511.2688 0,45.3031"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM)" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path3405-3-8-1-6-6"
+     d="m 446.10302,1580.5188 0,23.5531"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM)" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path3445-4"
+     d="m 881.66797,619.55225 0,-52.68892"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path3445-0"
+     d="m 881.16797,704.2417 0,-65.50727"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  <text
+     xml:space="preserve"
+     id="text1725-7-5-4-6-9"
+     style="font-size:14.40642452px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     transform="scale(0.96903038,1.0319594)"
+     y="694.63544"
+     x="843.61066"><tspan
+       style="font-size:10.00000572px"
+       id="tspan1727-1-5-4-4-4"
+       y="694.63544"
+       x="843.61066">Source - L4D to Dota 2</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path2206-1"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 494.09772,988.10464 295.89051,27.93846" />
+  <text
+     xml:space="preserve"
+     id="text2271-7"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="1020.1979"
+     x="794.22046"><tspan
+       id="tspan2273-4"
+       y="1020.1979"
+       x="794.22046">Jake2</tspan></text>
+  <text
+     xml:space="preserve"
+     id="text2271-7-9"
+     style="font-size:12px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+     y="1100.5458"
+     x="773.44373"><tspan
+       id="tspan2273-4-4"
+       y="1100.5458"
+       x="773.44373">GWT Quake 2</tspan></text>
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path3405-3-8-1-6-6-5"
+     d="m 446.10302,1644.4717 0,23.5531"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#TriangleOutM)" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path1883-3"
+     style="fill:none;stroke:#000000;stroke-width:0.99999899px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-mid:none;marker-end:url(#TriangleOutM)"
+     d="m 661.87406,523.63202 0,89.45617" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path1827-4"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 311.25734,1563.9826 c 0.0387,-0.5605 0,-18.0971 0,-18.0971" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path1827-4-5"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 310.00734,1599.4826 c 0.0387,-0.5605 0,-18.0971 0,-18.0971" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path2172-0"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 749.58935,1063.2392 0,76.4967" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path2172-0-1"
+     style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 809.40574,1026.818 0,59.2467" />
+  <path
+     sodipodi:nodetypes="cc"
+     inkscape:connector-curvature="0"
+     id="path2309-9"
+     style="fill:none;stroke:#000000;stroke-width:0.99999899px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 333.75511,1120.2347 0,36.2771" />
+</svg>
