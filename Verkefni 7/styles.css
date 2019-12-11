@@ -1,0 +1,187 @@
+* {
+    box-sizing: border-box
+}
+
+body {
+    margin: 0;
+    font: 400 1em/1.5, 'Gothic A1'sans-serif;
+}   
+
+/* Bakgrunnur á body */
+body {
+    background: url('quake-screenshot1.png') fixed;
+    background-size: cover;
+}
+
+.layer {
+    background-color: rgba(248, 247, 216, 0.7);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+h1 {
+    font-weight: 300;
+    font-size: 2.5em;
+}
+
+blockquote {
+    background-color: rgba(0, 0, 0, .5);
+    color: #fff;
+    padding: 1em
+}
+
+.container {
+    width: 60em;
+    margin: 0 auto;
+    padding: .5em;
+}
+
+.headcolor, .footcolor {
+    color: #fff
+}
+
+.bgcolor {
+    background: linear-gradient(to top, rgba(240, 202, 152, 0.5), rgba(255, 255, 255, 0.5));
+    padding: 1em;
+}
+
+.bgcolor2 {
+    background: linear-gradient(to bottom, rgb(240, 202, 152), white);
+    padding: 1em;
+}
+
+.bgcolor3 {
+    background: linear-gradient(to top, rgb(27, 27, 27), rgb(58, 41, 21));
+    background-repeat: no-repeat;
+    padding: 1em;
+}
+
+.marginb {
+    margin-bottom: -1em;
+}
+
+.margint {
+    margin-top: 4em;
+}
+
+.tile {
+    padding: 0;
+}
+
+.innermenu {
+    display: flex;
+    justify-content: center;
+}
+
+.innermenu a {
+    color: bisque;
+    background-color: black;
+    padding: .5em 1em;
+    margin-top: 1em;
+    text-decoration: none;
+    border-right: 1px solid white
+}
+
+.innermenu a:last-child {
+    border: 0;
+}
+
+.innermenu a:hover, .innermenu a:active {
+    color: black;
+    background: bisque
+}
+
+.top {
+    display: block;
+    position: fixed;
+    bottom: 2em;
+    right: 2em;
+    border-radius: 100%;
+    text-align: center;
+    padding: 0;
+    border: 2px solid black;
+    color: black;
+    font-size: 1.5em;
+    width: 1.5em;
+    text-decoration: none;
+    background-color: bisque
+}
+
+.copy {
+    text-align: center;
+    color: white;
+}
+
+.footnav li {
+    list-style-type: none;
+    line-height: 2;
+}
+
+.footnav {
+    margin: 0
+}
+
+img {
+    max-width: 20em;
+    height: auto;
+}
+
+.flright {
+    float: right;
+}
+
+.flex-end {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.text {
+    font-size: 1.25em;
+}
+
+.color {
+    background-color: black;
+}
+
+.color2 {
+    background: linear-gradient(to top, rgb(46, 44, 42), rgb(119, 10, 10));
+}
+
+.litur {
+    color: yellow
+}
+
+.video {
+    width: 100%;
+    height: 197px
+}
+
+@media screen and (min-width: 30em) {
+    .myndir {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media screen and (min-width: 37.5em) {
+    nav {
+        grid-auto-flow: column;
+    }
+    .myndir {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media screen and (max-width: 80em) {
+    img {
+        width: 960px;
+    }
+}
+
+@media screen and (min-width: 80em) {
+    img {
+        width: 1600px;
+    }
+}
